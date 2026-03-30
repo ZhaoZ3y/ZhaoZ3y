@@ -18,7 +18,7 @@
 ## 🛠 技术学习中
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,python,Vue,JavaScript,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=go,python,vue,js,git,github,vscode" />
 </p>
 
 ---
